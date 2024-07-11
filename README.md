@@ -28,7 +28,7 @@ under construction
 
 ## Acknowledgements
 
-* Code for COSTG builds on [ControlNet](https://github.com/lllyasviel/ControlNet) and [SPADE](https://github.com/NVlabs/SPADE). Thanks to the authors for open-sourcing models. 
+Code for COSTG builds on [ControlNet](https://github.com/lllyasviel/ControlNet) and [SPADE](https://github.com/NVlabs/SPADE). Thanks to the authors for open-sourcing models. 
 
 ## Citation
 under construction
