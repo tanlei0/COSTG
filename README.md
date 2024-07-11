@@ -5,12 +5,9 @@
 The repository of **ECCV 2024** paper titled ***Enriching Information and Preserving Semantic Consistency in Expanding Curvilinear Object Segmentation Datasets***.
 
 ## A Quick Overview 
-<img width="800" height="580" src="https://github.com//tanlei0/COSTG/blob/main/figs/compare.png">
-
-<img width="800" height="580" src="https://github.com//tanlei0/COSTG/blob/main/figs/pipeline.png">
+![Pipeline](https://raw.githubusercontent.com/tanlei0/COSTG/main/figs/pipeline.png)
 
 ## COSTG Dataset
-
 COSTG Dataset can be download in [Huggingface Dataset](https://huggingface.co/datasets/QinLei086/COSTG_v1).
 
 
