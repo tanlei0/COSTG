@@ -17,6 +17,23 @@ In this paper, we introduce the Semantic Consistency Preserving ControlNet (SCP 
 ## Demo
 A Huggingface demo <a href="https://huggingface.co/spaces/QinLei086/Curvilinear_Object_Generation_by_Text_and_Segmap"><img alt="Spaces" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue"></a>
 
-# under construction ....
+## Training
+under construction
+
+## To Do
+- [x] Release Gradio demo 
+- [x] Release COSTG dataset
+- [ ] Release model code and weights
+- [ ] Release training and inference code
+
+## Acknowledgements
+
+* Code for COSTG builds on [ControlNet](https://github.com/lllyasviel/ControlNet) and [SPADE](https://github.com/NVlabs/SPADE). Thanks to the authors for open-sourcing models. 
+
+## Citation
+under construction
+
+## Contact
+For any problem about this dataset or codes, please contact Dr. Qin Lei (qinlei@cqu.edu.cn, tanlei086@gmail.com)
 
 
