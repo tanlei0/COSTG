@@ -9,7 +9,9 @@ COSTG is a text-image generation dataset for curvilinear objects.
 ![Dataset](https://raw.githubusercontent.com/tanlei0/COSTG/main/figs/data_examples.jpg)
 
 COSTG dataset can be download in <a href="https://huggingface.co/datasets/QinLei086/COSTG_v1"><img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue"></a>.
-
+## SCP ControlNet
+Ensure **semantic consistency** between generated images and corresponding labels using **SCP ControlNet**, which adapts ControlNet with Spatially-Adaptive Normalization (SPADE) to preserve semantic details during image generation by injecting semantic information into the normalization layers.
+![SCP_ControlNet](https://raw.githubusercontent.com/tanlei0/COSTG/main/figs/SCP_ControlNet_poster_version.jpg)
 ## Pipeline to generate new samples
 In this paper, we introduce the Semantic Consistency Preserving ControlNet (SCP ControlNet), which adapts the SPADE module to maintain consistency between synthetic images and semantic maps.
 ![Pipeline](https://raw.githubusercontent.com/tanlei0/COSTG/main/figs/pipeline.jpg)
